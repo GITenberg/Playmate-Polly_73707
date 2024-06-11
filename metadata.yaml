@@ -1,0 +1,47 @@
+_repo: Playmate-Polly_73707
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Otis, Elizabeth
+    gutenberg_agent_id: '26778'
+    url: http://www.gutenberg.org/2009/agents/26778
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2024-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73707'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924075789663
+pgterms:marc905: 20221125163933blanchard
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bHurst & Company, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Trees -- Juvenile fiction'
+- !lcsh 'Crows -- Juvenile fiction'
+- !lcsh 'Imaginary companions -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Playmate Polly
+url: http://www.gutenberg.org/ebooks/73707
